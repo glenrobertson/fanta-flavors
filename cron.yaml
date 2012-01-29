@@ -1,0 +1,5 @@
+cron:
+- description: refresh flavors 
+  url: /refresh
+  schedule: every day 00:00
+  timezone: America/Los_Angeles
